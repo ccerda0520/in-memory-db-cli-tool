@@ -1,0 +1,16 @@
+{
+  "name": "@ccerda0520/in-memory-db-cli-tool",
+  "version": "1.0.0",
+  "description": "An in-memory database with a set of cli commands.",
+  "main": "index.js",
+  "bin": {
+    "db-cli": "index.js"
+  },
+  "author": {
+    "name": "Carlos Cerda",
+    "email": "ccerda0520@gmail.com",
+    "url": "https://componentbasedcarlos.com"
+  },
+  "license": "ISC",
+  "dependencies": {}
+}
